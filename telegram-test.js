@@ -3,8 +3,8 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
-const BOT_TOKEN = "8356016353:AAG5SNBOnOlkoyJxRRG43mLnzdEJTxD6b1M";
-const CHAT_ID = "5657792062";
+const BOT_TOKEN = "8207876989:AAGcJdODwY74sVflJXDeXOjqa4KaSFff--s";
+const CHAT_ID = "1037827212";
 
 async function testTelegram() {
   if (!BOT_TOKEN || !CHAT_ID) {
